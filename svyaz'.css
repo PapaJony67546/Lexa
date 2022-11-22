@@ -1,0 +1,11 @@
+.poper {
+    border: 2px solid rgb(8, 130, 187);
+    background-color: rgb(8, 130, 187);
+    border-radius: 18px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
